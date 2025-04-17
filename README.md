@@ -12,7 +12,7 @@ print("division: ",e)
 f=a-b
 print("Subtraction: ",f)
 
-# PYTHON TASK : Create a personalized greeting
+# PYTHON TASK 2 : Create a personalized greeting
 a=input("Enter the first name: ")
 b=input("Enter the last name: ")
 c=a+b
