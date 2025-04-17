@@ -11,3 +11,10 @@ e=a/b
 print("division: ",e)
 f=a-b
 print("Subtraction: ",f)
+
+# PYTHON TASK : Create a personalized greeting
+a=input("Enter the first name: ")
+b=input("Enter the last name: ")
+c=a+b
+print("Full name: ",c)
+print("Hello, Sai Suriya! Welcome to the Python Program.")
